@@ -28,3 +28,4 @@ This project demonstrates OOP design, database integration, GUI development, and
 ## 🚀 Installation
 Clone the repo and install requirements:
 ```bash
+https://github.com/DiaaMohammed911/Student-Management-System.git
