@@ -1,0 +1,15 @@
+# GUI and Core
+tkinter       # Built-in with Python (included by default)
+
+# Database
+sqlite3       # Built-in with Python (included by default)
+
+# Imaging
+Pillow>=10.0.0
+
+# Email & Networking
+smtplib       # Built-in with Python (included by default)
+email         # Built-in with Python (included by default)
+
+# Windows printing (optional, only for Windows)
+pywin32>=306; platform_system=="Windows"
